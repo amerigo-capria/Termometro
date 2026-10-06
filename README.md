@@ -2,6 +2,14 @@
 
 App Windows per leggere temperatura e umidità da un termometro Xiaomi Mijia via Bluetooth Low Energy, con GUI stile LCD.
 
+<p align="center">
+  <img src="assets/preview-lcd.png" alt="Anteprima display LCD del Termometro Xiaomi" width="720" />
+</p>
+
+<p align="center">
+  <em>Display compatto con temperatura, umidità, barre segnale BLE e faccia comfort</em>
+</p>
+
 ## Requisiti
 
 - Windows 10/11
